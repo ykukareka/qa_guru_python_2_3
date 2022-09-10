@@ -3,4 +3,4 @@ def test_0():
 
 
 def test_1():
-    assert 3 > 1.5
+    assert 3 > 1.6
